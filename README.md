@@ -53,4 +53,4 @@ The project is structured as a Maven project. Maven manages dependencies and con
 
 Mucahit Safa KOCA - mucahitsafakoca@gmail.com - mucahit.koca@testinium.com
 
-Project Link: https://github.com/mucahitsafakoca/OzdilekteyimAppiumProject.git
+Project Link: https://github.com/mucahitsafakoca/OzdilekProject.git
